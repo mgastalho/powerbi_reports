@@ -6,15 +6,17 @@ Aqui você encontrará dashboards desenvolvidos em Power BI, com aplicação de 
 
 ## 🚀 Sobre mim
 
-Profissional com foco em análise de dados e desenvolvimento de soluções analíticas orientadas a negócio.
+Profissional focada em desenvolvimento de soluções analíticas end-to-end, conectando dados, negócio e visualização.
 
 Experiência em:
 
-* Construção de dashboards em Power BI
-* Modelagem de dados
-* Criação de métricas com DAX
-* Análise de negócio
-* Integração de BI com aplicações
+- Desenvolvimento de dashboards analíticos em Power BI com foco em tomada de decisão  
+- Modelagem dimensional aplicada a cenários reais de negócio  
+- Construção de métricas avançadas utilizando DAX 
+- Análise de dados orientada a negócio 
+- Estruturação de dashboards em camadas
+- Desenvolvimento de soluções de embedded analytics com integração entre Power BI e aplicações  
+- Criação de produtos de dados com foco em usabilidade e storytelling  
 
 
 ## 📂 Projetos
