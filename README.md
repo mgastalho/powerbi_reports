@@ -68,4 +68,4 @@ Experiência em:
 
 Se quiser trocar ideias ou falar sobre oportunidades:
 
-* LinkedIn: https://www.linkedin.com/in/mgastalho/?locale=en
+* LinkedIn: https://www.linkedin.com/in/mgastalho/
